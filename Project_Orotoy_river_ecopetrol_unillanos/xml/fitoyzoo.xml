@@ -1,0 +1,17 @@
+﻿<items>
+	<item id="1" titulo="" cientifico="Micrasterias abrupta" datos="Células generalmente solitarias, muy comprimidas, más largas que anchas, conformadas por dos hemicélulas, con un cloroplasto en cada una(14). Habitan en zonas del agua bien iluminadas por la luz solar."/>
+	<item id="2" titulo="" cientifico="Staurastrum" datos="Son células solitarias, de manera general más largas que anchas, con simetría radial, con dos hemicélulas que pueden presentar apéndices largos o cortos(14)."/>
+	<item id="3" titulo="" cientifico="Microcystis" datos="Este grupo de algas, puede ser unicelular o formar colonias gelatinosas, que pueden flotar libremente o estar fijadas a un sustrato. Las células son esféricas, con contenido verde azul, gris o amarillento(16)."/>
+	<item id="4" titulo="" cientifico="Pediastrum" datos="Son colonias radiadas flotantes de entre 4 a 64 células(15), de color verde pasto. Las especies de este género se distribuyen desde las zonas polares hasta las tropicales."/>
+	<item id="5" titulo="" cientifico="Synura" datos="Colonias libres de forma esférica con células cubiertas por escamas silíceas(18). Es común en aguas dulces."/>
+	<item id="6" titulo="" cientifico="Melosira" datos="Las diatomeas son algas unicelulares, que se caracterizan por poseer la pared celular de sílice(17). Las células de este género están unidas en filamentos por cojines de mucilago, habitan en la parte superficial del fondo."/>
+	<item id="7" titulo="" cientifico="Euglena" datos="Organismo unicelular, de forma elongada, ovoide o fusiforme, que contiene cromatóforos verdes, uniflagelada y de nado libre(15)."/>
+	<item id="8" titulo="" cientifico="Euplotes" datos="Es un ciliado; los cilios bucales permiten atraer hacia sí pequeños fragmentos de materia vegetal y algas microscópicas, como diatomeas de las que se alimenta. Su movimiento es de reptación."/>
+	<item id="9" titulo="" cientifico="Cyclidium" datos="Ciliados ovales, comprimidos dorso-ventralmente(19)."/>
+	<item id="10" titulo="" cientifico="Diaphanosoma" datos="Son organismos filtradores, presentan dimorfismo sexual y gran capacidad migratoria. Como presas, integran una parte importante del espectro alimentario de los peces planctófagos particularmente aquellos adultos de pequeña talla y de estadios juveniles de otras especies."/>
+	<item id="11" titulo="" cientifico="Coleps " datos="Es un ciliado con forma de barril, recubierto de placas calcáreas se encuentra en aguas ligeramente cargadas de materia orgánica y con restos de algas de las que se alimenta. Se desplaza con mucha rapidez cambiando bruscamente el sentido de la marcha y rotando al mismo tiempo(20)."/>
+	<item id="12" titulo="" cientifico="Rotífera" datos="Estos organismos se caracterizan por poseer una corona ciliada y forma de embudo(21). De amplia distribución en toda clase de aguas."/>
+	<item id="13" titulo="" cientifico="Daphnia" datos="Son pequeños crustáceos, que poseen un caparazón que recubre el cuerpo, pero no la cabeza. Nadan por medio de su segundo par de antenas, en movimientos casi siempre verticales y espasmódicos(9)."/>
+	<item id="14" titulo="" titulo="Cyclopoida" datos="A este suborden pertenecen los copépodos no filtradores, se alimentan de partículas vegetales y animales. Viven en las orillas de los cuerpos de agua(22)."/>
+	
+</items>

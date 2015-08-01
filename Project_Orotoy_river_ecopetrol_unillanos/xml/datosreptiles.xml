@@ -1,0 +1,31 @@
+<items>
+	<item id="1" titulo="Anaconda" cientifico="(Eunectes murinus)" datos="La anaconda es un ofidio o serpiente de color gris o castaño, con manchas negras, puede superar los nueve metros de longitud y una circunferencia de 60 cm en el tronco(87). La mayor parte del tiempo la pasa en el agua, ya sea en la parte profunda o en la superficie, aunque también es posible encontrarla en las ramas de los árboles. Son ovovivíparas, esto es que al reproducirse las hembras tendrán los huevos dentro de ella, las crías nacen ahí y luego dan a luz a una camada máxima de 36 a 40 crías(87). No es venenosa. La distribución de esta especie incluye el área de la cuenca del rio Orotoy pero actualmente no se tienen registros de su presencia."/>
+
+	<item id="2" titulo="Cachirre, babilla" cientifico="(Paleosuchus palpebrosus)" datos="El cachirre o babilla es el cocodrilo más pequeño del mundo. Puede alcanzar cuando adulto los 1,7 m de longitud95. Habita en ríos de aguas limpias y corrientes rápidas, rodeados de bosque ribereño. De hábitos nocturnos, en el día se oculta en cuevas y en la noche se desplaza a conseguir su alimento, que está basado en peces, crustáceos, moluscos y anfibios. Las hembras hacen nidos con la hojarasca, durante la temporada de lluvias, en los que ponen de 10 a 19 huevos(95), que eclosionan a los 100 días. Aunque el área de distribución de la especie incluye la cuenca del río Orotoy, actualmente no se tienen registros."/>
+	
+	<item id="3" titulo="Charapa" cientifico="(Podonecmis expansa)" datos="La tortuga charapa, vive de manera permanente en el agua, solo visita los ecosistemas terrestres cuando sale a poner sus huevos. Se encuentra en hábitats acuáticos como ríos, lagunas, madres viejas y rebalses. La especie es migratoria, cuando el nivel de las aguas es alto permanecen en las zonas de inundación, cuando bajan las aguas se mueven hacia los canales principales de los ríos, en busca de las playas para anidar. Los adultos de la especie se alimentan principalmente de material vegetal, especialmente frutas y en menor proporción tallos y hojas(96). Las hembras anidan de noche, excavan sus nidos en la arena, en los que depositan un promedio de 84 huevos, que al cabo de 60 días empiezan a eclosionar y los neonatos en grupo salen a la superficie(96). "/>
+	
+<item id="4" titulo="Lagartija" cientifico="(Anolis ortonii)" datos="Es un lagarto arborícola, prefiere los troncos y las ramas bajas de los arboles, en sitios sombreados. Las hembras depositan los huevos sobre mantos de hojas húmedas."/>
+
+	<item id="5" titulo="Morrocoy" cientifico="(Geochelone carbonaria)" datos="El morrocoy habita en bosques de galería, pequeños bosques y morichales. Este reptil es terrestre, de hábitos diurnos, que presenta actividad cuando busca alimento, agua o refugios, en temporadas de lluvias es muy inactivo(97). Es omnívora, se alimenta de plantas, frutas, flores y peces(97). La hembra pone sus huevos en huecos excavados en la tierra."/>
+	
+<item id="6" titulo="Boa constrictor" datos="La boa, es una serpiente solitaria, de hábitos nocturnos, que se puede encontrar tanto en las ramas de los árboles como en el suelo. Se alimenta de aves, reptiles y mamíferos, que caza por la noche al detectarlos por diferencia de temperatura(90). Es una especie vivípara que tiene de 10 a 20 crías por camada(90). No es venenosa."/>
+	
+<item id="7" titulo="Iguana" cientifico="(Iguana iguana)" datos="Las iguanas en el día se encuentran en las ramas de los árboles del bosque de ribera y en la noche se refugia en madrigueras excavadas en el suelo. De hábitos diurnos, son excelentes trepadoras y también buenas nadadoras. Se alimenta de hojas, semillas, frutos y flores, por lo que contribuye a la dispersión de las especies de flora. Las hembras hacen túneles en la tierra para poner sus huevos, que van de 25 a 35 en promedio, la puesta y la incubación son en la estación seca y las crías nacen al inicio de las lluvias(99). "/>
+	<item id="8" titulo="especie 8" datos="texto para animacion 8"/>
+	
+<item id="9" titulo="Macabrel" cientifico="(Corallus ruschenbergerii)" datos="La macabrel, habita sobre los árboles en bosques húmedos; Tiene hábitos nocturnos y es un depredador agresivo, su dieta consiste en variedad de vertebrados pequeños, siendo las aves la presa más común(92)."/>
+	
+	<item id="10" titulo="Boa arcoíris" cientifico="(Epicrates cenchria)" datos="La boa arcoíris, es una serpiente terrestre cuyo cuerpo emite un resplandor multicolor cuando se expone a la luz del sol. Es de hábitos nocturnos y vive cerca a los cuerpos de agua. Es bastante agresiva y muerde con extrema rapidez, no es venenosa, como todas las boas, pero su mordida es bastante dolorosa(91). Se alimenta principalmente de pequeños mamíferos, ranas, lagartijas, aves y también sus huevos. Esta especie es ovovivípara y las hembras pueden tener entre 8 y 15 crías(91)."/>
+	
+<item id="11" titulo="Cazadora" cientifico="(Chironius carinatus)" datos="La serpiente cazadora, alcanza una longitud de un metro a un metro diez centímetros de longitud, es de color verde en el dorso y amarillenta en el vientre(89). Se alimenta de pequeños roedores"/>
+	
+	<item id="12" titulo="Cascabel" cientifico="(Crotalus durissus)" datos="La cascabel es una especie venenosa, que alcanza los 100 cm de longitud. Es activa en el atardecer y la noche; en el día se esconde bajo troncos, rocas, maleza o en las madrigueras de otros animales. Se alimenta principalmente de roedores, aunque también puede consumir reptiles como lagartijas. Las hembras pueden tener hasta 22 crías por camada (93). "/>
+	
+<item id="13" titulo="Coralillo" cientifico="(Micrurus psyches)" datos="La serpiente de coral, puede llegar a medir hasta 91 cm de longitud(94). Habita debajo de rocas y en madrigueras de otros animales, caza de noche a otras culebras pequeñas y lagartijas que son la base de su dieta(94). Es ovípara, pone entre 3 y 8 huevos por camada(94). Posee un potente veneno. "/>
+
+<item id="14" titulo="Sapa" cientifico="(Helicops angulatus)" datos="La serpiente conocida como sapa, es de actividad nocturna y es común encontrarla en cuerpos de agua pequeños como quebradas, ríos y riachuelos(88). Se alimenta de renacuajos, peces, anfibios y reptiles semiacuaáticos(88)."/>
+
+
+</items>
+
