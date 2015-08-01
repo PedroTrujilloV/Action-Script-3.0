@@ -1,0 +1,7 @@
+To execute Hurricane Simulator.swf:
+
+right click in the background of the simulation, select 100% and maximize the window.
+
+To watch 3d plane, press Ctrl key + click and drag in the background of the simulation.
+
+To modify the global temperature, use the left bar
