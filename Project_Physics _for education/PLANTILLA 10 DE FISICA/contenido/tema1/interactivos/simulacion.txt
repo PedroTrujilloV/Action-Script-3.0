@@ -1,0 +1,27 @@
+*********************************
+simulacion
+
+MULTIPLICACIÓN DE UN VECTOR POR UN ESCALAR
+
+El producto de un escalar por un vector da como resultado otro vector que tiene la misma dirección que el vector factor. 
+Si el número que multiplica al vector es positivo, conservará el sentido y si es negativo invertirá su sentido. 
+Si el número además es mayor que uno el vector resultante será proporcionalmente mayor que el vector factor. 
+Si el número es menor que uno el vector resultante será proporcionalmente menor que el vector factor. 
+Ejemplos:
+ 
+Interactivo mostrando la multiplicación, que muestre la flecha, valores introducidos y el resultado en valor y flecha.
+
+
+modificar cuadricula
+	
+	puntas
+	ejex
+	numeros
+	posicion letas ejex
+	
+modificar cuadro de abajo
+	
+	entrada/salida de texto
+	resultado
+
+modificar datos de lso vectores debe sr igual 

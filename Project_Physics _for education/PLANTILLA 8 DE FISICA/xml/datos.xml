@@ -1,0 +1,51 @@
+﻿<contenidos>
+	   <tema id="tema1">
+		<objetivo>
+			<o1 titulo="objetivos" ruta="contenido/tema1/objetivos/obj1.swf"/>							
+		</objetivo>
+		<teoria>
+			<t1 titulo="fases de la Materia" ruta="contenido/tema1/teoria/tema1.swf" />				
+		</teoria>
+		<interactivos>
+			     <i1 titulo="Conversión de Ángulos" ruta="contenido/tema1/interactivos/cma_general.swf"/>			     
+     		</interactivos>
+		<evaluacion>
+			    <e1 titulo="Evaluación de Ángulos" ruta="contenido/tema1/evaluacion/tema1/EVALUACION.swf"/>			  
+		</evaluacion>
+	   </tema>
+	   
+	   
+	   <tema id="tema2">
+		<objetivo>
+			<o1 titulo="Objetivo" ruta="contenido/tema2/objetivos/obj1.swf"/>						
+		</objetivo>
+		<teoria>
+			<t1 titulo="Hidrostática" ruta="contenido/tema2/teoria/tema1.swf"/>			
+		</teoria>
+		<interactivos>
+			     <i1 titulo="Áplicaciones" ruta="contenido/tema2/interactivos/Ángulo e-d.swf"/>			
+     		</interactivos>
+		<evaluacion>
+			    <e1 titulo="Evaluacion" ruta="contenido/tema2/evaluacion/eva1.swf"/>			    
+		</evaluacion>
+	   </tema>
+	   
+	   
+	   <tema id="tema3">
+		<objetivo>
+			<o1 titulo="Objetivo" ruta="contenido/tema3/objetivos/obj1.swf"/>					
+		</objetivo>
+		<teoria>
+			<t1 titulo="Calor y Temperatura" ruta="contenido/tema3/teoria/tema1.swf"/>			
+		</teoria>
+		<interactivos>
+			     <i1 titulo="Aplicaciones" ruta="contenido/tema3/interactivos/matematica aplicada.swf"/>			 
+     		</interactivos>
+		<evaluacion>
+			    <e1 titulo="Evaluacion" ruta="contenido/tema3/evaluacion/eva1.swf"/>			    
+		</evaluacion>
+	   </tema>
+	   
+	   
+</contenidos>
+

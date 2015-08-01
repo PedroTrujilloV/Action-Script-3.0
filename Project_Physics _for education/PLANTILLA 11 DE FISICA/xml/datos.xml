@@ -1,0 +1,39 @@
+﻿<contenidos>
+	   <tema id="tema1">
+		<objetivo>
+			<o1 titulo="objetivos" ruta="contenido/tema1/objetivos/obj1.swf"/>							
+		</objetivo>
+		<teoria>
+			<t1 titulo="Mecánica de Fluidos" ruta="contenido/tema1/teoria/tema1.swf" />	
+                        <t1 titulo="Presión" ruta="contenido/tema1/teoria/tema2.swf" />	
+			<t1 titulo="Fluidos en movimiento" ruta="contenido/tema1/teoria/tema3.swf" />				
+		</teoria>
+		<interactivos>
+			     <i1 titulo="interactivo" ruta="contenido/tema1/interactivos/cma_general.swf"/>			     
+     		</interactivos>
+		<evaluacion>
+			    <e1 titulo="Evaluación" ruta="contenido/tema1/evaluacion/tema1/EVALUACION.swf"/>			  
+		</evaluacion>
+	   </tema>
+	   
+	   
+	   <tema id="tema2">
+		<objetivo>
+			<o1 titulo="Objetivo" ruta="contenido/tema2/objetivos/obj1.swf"/>						
+		</objetivo>
+		<teoria>
+			<t1 titulo="Termodinamica" ruta="contenido/tema2/teoria/tema1.swf"/>
+			<t1 titulo="Escalas de Temperatura" ruta="contenido/tema2/teoria/tema2.swf"/>	
+			<t1 titulo="Dilatación" ruta="contenido/tema2/teoria/tema3.swf"/>		
+		</teoria>
+		<interactivos>
+			     <i1 titulo="Áplicaciones" ruta="contenido/tema2/interactivos/termometro.swf"/>			
+     		</interactivos>
+		<evaluacion>
+			    <e1 titulo="Evaluación" ruta="contenido/tema2/evaluacion/eva1.swf"/>			    
+		</evaluacion>
+	   </tema>
+	   
+	  		
+</contenidos>
+

@@ -1,0 +1,10 @@
+*******************
+*simulaciones
+
+
+RESTA DE VECTORES
+Para restar vectores se utiliza el elemento inverso de la suma. Así la resta de dos vectores se puede ver como una suma. Veamos:
+ 
+El negativo de un vector es otro vector con sentido contrario. De ahí en adelante la operación sigue como una suma de vectores.
+ 
+Interactivo mostrando la resta, que muestre la flecha, valores introducidos y el resultado en valor y flecha.
